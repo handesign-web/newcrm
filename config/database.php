@@ -11,6 +11,6 @@ if ($conn->connect_error) {
     die("Koneksi Database Gagal: " . $conn->connect_error);
 }
 
-// Set timezone timestamp sesuai Indonesia
+// Set timezone timestamp sesuai
 date_default_timezone_set('Asia/Jakarta');
 ?>
