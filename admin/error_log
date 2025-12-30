@@ -1,0 +1,56 @@
+[29-Dec-2025 13:19:39 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[29-Dec-2025 13:19:51 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[29-Dec-2025 13:20:03 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[29-Dec-2025 14:18:09 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[29-Dec-2025 14:25:14 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[29-Dec-2025 14:28:55 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[29-Dec-2025 14:28:56 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[29-Dec-2025 14:28:57 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[29-Dec-2025 14:30:09 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[29-Dec-2025 14:30:11 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd.division_name' in 'field list' in /home/linksfie/price.linksfield.id/admin/profile.php:21
+Stack trace:
+#0 /home/linksfie/price.linksfield.id/admin/profile.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/linksfie/price.linksfield.id/admin/profile.php on line 21
+[29-Dec-2025 14:30:26 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd.division_name' in 'field list' in /home/linksfie/price.linksfield.id/admin/profile.php:21
+Stack trace:
+#0 /home/linksfie/price.linksfield.id/admin/profile.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/linksfie/price.linksfield.id/admin/profile.php on line 21
+[29-Dec-2025 14:30:36 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'd.division_name' in 'field list' in /home/linksfie/price.linksfield.id/admin/profile.php:21
+Stack trace:
+#0 /home/linksfie/price.linksfield.id/admin/profile.php(21): mysqli->prepare()
+#1 {main}
+  thrown in /home/linksfie/price.linksfield.id/admin/profile.php on line 21
+[29-Dec-2025 14:33:45 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'division_name' in 'field list' in /home/linksfie/price.linksfield.id/admin/profile.php:113
+Stack trace:
+#0 /home/linksfie/price.linksfield.id/admin/profile.php(113): mysqli->query()
+#1 {main}
+  thrown in /home/linksfie/price.linksfield.id/admin/profile.php on line 113
+[29-Dec-2025 16:24:32 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[30-Dec-2025 10:48:31 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[30-Dec-2025 10:48:41 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[30-Dec-2025 10:54:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getRecipientEmails() in /home/linksfie/price.linksfield.id/admin/leave_list.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/linksfie/price.linksfield.id/admin/leave_list.php on line 160
+[30-Dec-2025 11:07:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getRecipientEmails() in /home/linksfie/price.linksfield.id/admin/leave_list.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/linksfie/price.linksfield.id/admin/leave_list.php on line 160
+[30-Dec-2025 14:48:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getRecipientEmails() in /home/linksfie/price.linksfield.id/admin/leave_list.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/linksfie/price.linksfield.id/admin/leave_list.php on line 160
+[30-Dec-2025 14:49:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getRecipientEmails() in /home/linksfie/price.linksfield.id/admin/leave_list.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/linksfie/price.linksfield.id/admin/leave_list.php on line 160
+[30-Dec-2025 14:54:58 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[30-Dec-2025 14:55:18 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[30-Dec-2025 14:57:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function getRecipientEmails() in /home/linksfie/price.linksfield.id/admin/leave_list.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/linksfie/price.linksfield.id/admin/leave_list.php on line 160
+[30-Dec-2025 15:13:45 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339
+[30-Dec-2025 15:52:39 Asia/Jakarta] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/linksfie/price.linksfield.id/admin/manage_users.php on line 339

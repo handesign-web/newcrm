@@ -1,0 +1,14 @@
+2025-12-15 09:49:03 - Gagal kirim ke zidan@linksfield.net. Error Info: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`autoconfig.como.id.rapidplex.com' did not match expected CN=`mail.linksfield.id' SMTP server error: QUIT command failed Detail: ["ÔmËbºD	"Å∫î_( 221 como.id.rapidplex.com closing connection
+
+2025-12-15 14:53:40 - Gagal kirim ke admin@example.com. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 14:53:46 - Gagal kirim ke handy@linksfield.net. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 14:53:52 - Gagal kirim ke fahrul.wibisono@linksfield.net. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 14:53:58 - Gagal kirim ke handyputro15@gmail.com. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 14:54:00 - Gagal kirim ke annisa@linksfield.net. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 14:54:26 - Gagal kirim ke aji.fiasto@linksfield.net. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 14:55:50 - Gagal kirim ke aji.fiasto@linksfield.net. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 14:57:43 - Gagal kirim ke handy@linksfield.net. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 15:01:24 - Gagal kirim ke aji.fiasto@linksfield.net. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 15:13:43 - Gagal kirim ke handy@linksfield.net. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 15:13:53 - Gagal kirim ke handy@linksfield.net. Error Info: SMTP Error: Could not authenticate.
+2025-12-15 15:14:04 - Gagal kirim ke handy@linksfield.net. Error Info: SMTP Error: Could not authenticate.
