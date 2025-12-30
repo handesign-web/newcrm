@@ -2,7 +2,7 @@
 // config/database.php
 $host = 'localhost';
 $user = 'stagging_newcrm';
-$pass = 'Kumisan5'; // Default XAMPP kosong
+$pass = 'Kumisan5';
 $db_name = 'stagging_newcrm';
 
 $conn = new mysqli($host, $user, $pass, $db_name);
