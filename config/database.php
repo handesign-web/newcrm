@@ -1,9 +1,9 @@
 <?php
 // config/database.php
 $host = 'localhost';
-$user = 'linksfie_admin_it';
+$user = 'stagging_newcrm';
 $pass = 'Kumisan5'; // Default XAMPP kosong
-$db_name = 'linksfie_newcrm';
+$db_name = 'stagging_newcrm';
 
 $conn = new mysqli($host, $user, $pass, $db_name);
 
