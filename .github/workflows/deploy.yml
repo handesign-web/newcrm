@@ -21,4 +21,4 @@ jobs:
           # --no-g : Jangan ubah group
           # --no-p : Jangan ubah permission
           
-          rsync -av --delete --no-o --no-g --no-p --no-t --exclude '.git' --exclude '.github' ./ /www/wwwroot/isplanding/
+          rsync -av --delete --no-o --no-g --no-p --no-t --exclude '.git' --exclude '.github' ./ /www/wwwroot/newcrm/
